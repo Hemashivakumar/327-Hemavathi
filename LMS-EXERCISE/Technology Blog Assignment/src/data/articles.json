@@ -1,0 +1,87 @@
+[
+    {
+    "id": "1",
+    "author": "Louis Rossetto",
+    "title": "Wired",
+    "abstract": "Wired is a massively popular publication, good at capturing real insights into the tech world, no stranger to topics like technology, entertainment, science, culture, politics, and social media.",
+    "body": " Informed and comprehensive, Wired is basically the perfect tech blog to follow.",
+    "imageUrl": "https://www.investopedia.com/thmb/QvLIdxSBRTqN0PFDFfW0YV9ZA70=/2121x1193/smart/filters:no_upscale()/GettyImages-964033964-ca3290057ccc4024b57e755423572264.jpg",
+    "createdAt":"Jan 01",
+    "comments": [
+    {
+    "commenter": "sjkbdcb2tgi",
+    "title": "Go for it!",
+    "comment": "good",
+    "createdAt": "Jan 02"
+    }
+    ]
+    },
+        {
+        "id":  "2",
+        "author": "Keith Teare",
+        "title": "Tech Crunch",
+        "abstract": "Invest yourself in the business-verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
+        "body": " TechCrunch offers knowledge about new gizmos and business-related apps. ",
+        "imageUrl": "https://www.investopedia.com/thmb/QvLIdxSBRTqN0PFDFfW0YV9ZA70=/2121x1193/smart/filters:no_upscale()/GettyImages-964033964-ca3290057ccc4024b57e755423572264.jpg",
+        "createdAt":"Jan 03",
+        "comments": [
+        {
+        "commenter": "sjkbdcb2tgi",
+        "title": "Go for it!",
+        "comment": "good",
+        "createdAt": "Jan 04"
+        }
+        ]
+        },
+            {
+            "id":  "3",
+            "author": "Kara Swisher",
+            "title": "Recode",
+            "abstract": "Currently, owned by VOX media, Recode gives the most updated independent technology news, analysis trends, and reviews from the most respected and informed journalists as well as bloggers in media and technology.",
+            "body": " Recode is uncovering and explaining how our tech world is changing by focusing on the businesses of Silicon Valley.  ",
+            "imageUrl": "https://www.investopedia.com/thmb/QvLIdxSBRTqN0PFDFfW0YV9ZA70=/2121x1193/smart/filters:no_upscale()/GettyImages-964033964-ca3290057ccc4024b57e755423572264.jpg",
+            "createdAt":"Jan 05",
+            "comments": [
+            {
+            "commenter": "sjkbdcb2tgi",
+            "title": "Go for it!",
+            "comment": "good",
+            "createdAt": "Jan 06"
+            }
+            ]
+            },
+                {
+                "id": "4",
+                "author": " Pete Cashmoreg",
+                "title": "Mashable",
+                "abstract": "Mashable is a world-renowned, entertainment, and multi-platform media channel. ",
+                "body": " It is one of the most influential blogs on technology on the internet today!  ",
+                "imageUrl": "https://www.investopedia.com/thmb/QvLIdxSBRTqN0PFDFfW0YV9ZA70=/2121x1193/smart/filters:no_upscale()/GettyImages-964033964-ca3290057ccc4024b57e755423572264.jpg",
+                "createdAt":"Jan 06",
+                "comments": [
+                {
+                "commenter": "sjkbdcb2tgi",
+                "title": "Go for it!",
+                "comment": "good",
+                "createdAt": "Jan 07"
+                }
+                ]
+                },
+                    {
+                    "id": "5",
+                    "author": "Halsey Minor",
+                    "title": "CNET",
+                    "abstract": "Following the latest trends in consumer technology with steadfast precision, CNET is one of the top technology blogs you can find on this list.",
+                    "body": " CNET stays ahead of the curve by spreading its hands on all sorts of incredible tech products, trends and offering unbiased reviews.  ",
+                    "imageUrl": "https://www.investopedia.com/thmb/QvLIdxSBRTqN0PFDFfW0YV9ZA70=/2121x1193/smart/filters:no_upscale()/GettyImages-964033964-ca3290057ccc4024b57e755423572264.jpg",
+                    "createdAt":"Jan 08",
+                    "comments": [
+                    {
+                    "commenter": "sjkbdcb2tgi",
+                    "title": "Go for it!",
+                    "comment": "good",
+                    "createdAt": "Jan 09"
+                    }
+                ]
+            }
+        ]
