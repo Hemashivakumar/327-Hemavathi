@@ -1,0 +1,8 @@
+docker build -t 808085327/dockerwebapp .
+
+docker images
+
+docker run -p 49160:8080 miltonc/dockerwebapp
+
+http://localhost:49160
+
