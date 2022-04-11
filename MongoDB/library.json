@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "61d6dffc6a6d223d3f9e9011"
+  },
+  "title": "Operating System",
+  "Author": "ABC"
+}]
+
+[{
+  "_id":{
+  "$oid":"61d6d63d296f1f87016ae331"
+  },
+  "NO":20,
+  "Name":"ET",
+  "Salary":20000,
+  "Role":"SM"
+}]
