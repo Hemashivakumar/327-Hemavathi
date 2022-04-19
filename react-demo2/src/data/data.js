@@ -1,20 +1,20 @@
 var initialPlayers = [{
-    name: "jay",
-    age: 50,
+    name: "Gem",
+    age: 24,
     awards: ["State", "National"]
 },
 {
-    name: "poo",
+    name: "ishh",
     age: 26,
     awards: ["State", "National"]
 },
 {
-    name: "sagar",
+    name: "yaazh",
     age: 27,
     awards: ["State", "National"]
 },
 {
-    name: "jayant",
+    name: "Moana",
     age: 80,
     awards: ["State", "National"]
 }

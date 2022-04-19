@@ -1,22 +1,22 @@
 import Immutable from 'immutable';
 
 var initialPlayers = [{
-    name: "jay",
+    name: "Virat kohli",
     age: 25,
     awards: ["State","National"]
 },
 {
-    name: "poo",
+    name: "Iyer",
     age: 26,
     awards: ["State","National"]
 },
 {
-    name: "sagar",
+    name: "Faf",
     age: 27,
     awards: ["State","National"]
 },
 {
-    name: "jayant",
+    name: "rahul",
     age: 25,
     awards: ["State","National"]
 }
@@ -34,7 +34,7 @@ const PlayerReducer = (state = initialPlayers, action) =>{
 
 
             //using immutable JS wew can do it in one line
-            return Immutable.List(state).push({name: "priyanka",
+            return Immutable.List(state).push({name: "Jadeja",
             age: 24,
             awards: ["State","PadmaShree"]});
 
@@ -48,9 +48,9 @@ const PlayerReducer = (state = initialPlayers, action) =>{
             // awards: ["State","PadmaShree"]});
             // return newState2;
 
-            return Immutable.List(state).push({name: "Preetha",
+            return Immutable.List(state).push({name: "Ali",
             age: 24,
-            awards: ["State","PadmaShree"]},{name: "Uma",
+            awards: ["State","PadmaShree"]},{name: "Kohli",
             age: 24,
             awards: ["State","PadmaShree"]});
 

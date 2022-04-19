@@ -19,7 +19,7 @@ class ATM_assign {
         double withdraw = 0.00, deposit = 0.00;
         System.out.println("*****Welcome to Canara Bank*****");
         System.out.println("Account Details\n");
-        Bank b1 = new Bank(10001, "Jenita Gama", 10000.00);
+        Bank b1 = new Bank(10001, "Mouna", 10000.00);
 
         ArrayList<Bank> accounts = new ArrayList<Bank>();
         accounts.add(b1);

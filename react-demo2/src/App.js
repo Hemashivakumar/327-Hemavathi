@@ -34,7 +34,7 @@ function Home() {
   return (
     // <NavBar />
     <div>
-      hello HOME
+      WELCOME
     </div>
 
    

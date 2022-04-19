@@ -16,7 +16,7 @@ const playerReducer = (state = initialPlayers, action) => {
 
             //using immutable JS wew can do it in one
             return Immutable.List(state).push({
-                name: "priyanka",
+                name: "Virat",
                 age: 24,
                 awards: ["State", "PadmaShree"]
             });
@@ -24,12 +24,12 @@ const playerReducer = (state = initialPlayers, action) => {
         case "ADD_TWO":
             let [...newState2] = state;
             newState2.push({
-                name: "yogesh",
+                name: "Dhoni",
                 age: 24,
                 awards: ["State", "PadmaShree"]
             });
             newState2.push({
-                name: "prakitha",
+                name: "Rahul",
                 age: 24,
                 awards: ["State", "PadmaShree"]
             });
